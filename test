@@ -1,0 +1,7 @@
+echo "# bits" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Ashwini2021ht66556/bits.git
+git push -u origin main
